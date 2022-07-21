@@ -22,7 +22,7 @@
     "url": "https://ukspacenews.com/",
     "icon": "https://favicons.githubusercontent.com/ukspacenews.com",
     "slug": "uk-space-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 1268,
     "timeYear": 1122,
     "dailyMinutesDown": {
+      "2022-07-21": 0,
       "2022-06-13": 23
     }
   }
