@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://davelopware.github.io/monitoring-public/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the uptime monitor config and status page for [Davelopware](https://github.com/davelopware), powered by [Upptime](https://github.com/upptime/upptime).
 
